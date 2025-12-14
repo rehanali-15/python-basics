@@ -1,10 +1,26 @@
 # Python Basics
 
-This repository contains my first Python programs.
+This repository contains my Python learning journey and mini projects.
 
-## Topics covered
-- Print statements
+## 🔹 Skills Covered
+- Python basics
+- Input and output
+- Conditional statements
+- Loops
+- Simple logic building
+
+## 🔹 Programs Included
+- Hello World
 - Variables
-- Basic programs
+- User Input
+- Calculator
+- Even or Odd
+- Loop Example
 
-I am a AI Engineering student learning Python.
+## 🔹 Mini Project
+### Student Marks Calculator
+- Takes student name
+- Accepts marks of 3 subjects
+- Calculates total and average
+
+👨‍🎓 I am a AI Engineering student learning Python and AI.
